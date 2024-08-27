@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+
+
 *{
     margin: 0;
     padding: 0;
@@ -211,8 +214,6 @@ section{
     color: transparent;
     font-family: Anton;
     color: #000;
-    -webkit-background-clip: text;
-    background-image: url(/myProjects/Assets/bg-text-red.png);
 }
 
 .two{
@@ -243,9 +244,7 @@ section{
     line-height: .95;
     color: #000;
     font-family: Anton;
-    -webkit-background-clip: text;
     margin: 15px 0;
-    background-image: url(/myProjects/Assets/bg-text-black.png);
 }
 
 .two-left>p{
@@ -323,16 +322,14 @@ section{
 
 
 .three-head>h1{
-    font-size: 19vw;
+    font-size: 13vw;
     text-transform: uppercase;
     color: #000;               
     /* ----------------------------------------------------------------------------------- */
     line-height: 1.2;
     font-family: Anton;
-    -webkit-background-clip: text;
-   text-align: center;
+    text-align: center;
     margin: 15px 0;
-    /* background-image: url(/myProjects/Assets/bg-text-red.png); */
 }
 
 
@@ -518,8 +515,6 @@ section{
     font-weight: 200;
     word-spacing:-2vw;
     letter-spacing: 3px;
-    -webkit-background-clip:text;
-    background-image: url(/myProjects/Assets/bg-text-red.png);
 }
 
 .six-body{
